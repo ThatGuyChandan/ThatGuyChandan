@@ -2,6 +2,9 @@
 
 I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTech . My journey into the world of technology began with a curiosity for coding, and I've been exploring and creating ever since.
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 🚀 **What I'm Up To:**
 - 🔬 Currently diving deep into algorithms and data structures.
 - 🌐 Working on exciting web development projects.
@@ -49,7 +52,3 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 ![ThatGuyChandan's Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![ThatGuyChandan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
