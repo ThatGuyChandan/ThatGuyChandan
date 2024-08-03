@@ -55,6 +55,11 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 
 ![ThatGuyChandan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-### 🐍 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThatGuyChandan/ThatGuyChandan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThatGuyChandan/ThatGuyChandan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThatGuyChandan/ThatGuyChandan/output/github-contribution-grid-snake.svg">
+</picture>
 
-![snake gif](https://github.com/ThatGuyChandan/ThatGuyChandan/blob/output/github-contribution-grid-snake.gif)
+<!--_generated with [Platane/snk](https://github.com/Platane/snk)_-->
+
