@@ -1,6 +1,9 @@
 ## Hey there! 👋
 
 I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTech . My journey into the world of technology began with a curiosity for coding, and I've been exploring and creating ever since.
+[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
+
+**Random Dev Joke :**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -44,7 +47,6 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 - 🌐 Explore my [Portfolio](https://thatguychandan.github.io/Portfolio/).
 
 <p>I'm excited to be a part of the ever-evolving tech community and looking forward to collaborating, learning, and creating amazing things together. Feel free to connect with me or check out my work. Let's code, explore, and innovate together! 🚀 </p>
----
 
 ### :fire: My Stats :
 ![ThatGuyChandan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThatGuyChandan&theme=vue-dark&hide_border=false)
