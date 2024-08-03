@@ -54,3 +54,11 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 ![ThatGuyChandan's Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![ThatGuyChandan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+### 🐍 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
