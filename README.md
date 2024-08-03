@@ -49,3 +49,7 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 ![ThatGuyChandan's Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![ThatGuyChandan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
