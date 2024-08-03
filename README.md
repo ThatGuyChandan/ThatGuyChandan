@@ -3,7 +3,7 @@
 
 I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTech . My journey into the world of technology began with a curiosity for coding, and I've been exploring and creating ever since.
 
-**Random Dev Joke :**
+**Random Dev Joke:**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -47,7 +47,7 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 
 <p>I'm excited to be a part of the ever-evolving tech community and looking forward to collaborating, learning, and creating amazing things together. Feel free to connect with me or check out my work. Let's code, explore, and innovate together! 🚀 </p>
 
-### :fire: My Stats :
+## :fire: My Stats :
 ![ThatGuyChandan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThatGuyChandan&theme=vue-dark&hide_border=false)
 
 ![ThatGuyChandan's Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
