@@ -7,7 +7,6 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
 🚀 **What I'm Up To:**
 - 🔬 Currently diving deep into algorithms and data structures.
 - 🌐 Working on exciting web development projects.
