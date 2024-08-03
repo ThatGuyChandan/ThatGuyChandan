@@ -1,4 +1,5 @@
-## Hey there! 👋
+## Hey there! 👋                                                              
+![](https://komarev.com/ghpvc/?username=ThatGuyChandan&color=green)
 
 I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTech . My journey into the world of technology began with a curiosity for coding, and I've been exploring and creating ever since.
 
