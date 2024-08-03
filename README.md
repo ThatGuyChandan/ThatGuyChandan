@@ -40,7 +40,7 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 - 🌐 Explore my code and projects on [GitHub](https://github.com/ThatGuyChandan).
 - 🌐 Explore my [Portfolio](https://thatguychandan.github.io/Portfolio/).
 
-I'm excited to be a part of the ever-evolving tech community and looking forward to collaborating, learning, and creating amazing things together. Feel free to connect with me or check out my work. Let's code, explore, and innovate together! 🚀
+<p>I'm excited to be a part of the ever-evolving tech community and looking forward to collaborating, learning, and creating amazing things together. Feel free to connect with me or check out my work. Let's code, explore, and innovate together! 🚀 </p>
 ---
 
 ### :fire: My Stats :
@@ -48,4 +48,3 @@ I'm excited to be a part of the ever-evolving tech community and looking forward
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyChandan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/ThatGuyChandan/ThatGuyChandan/blob/output/github-contribution-grid-snake.gif)
