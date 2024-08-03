@@ -1,7 +1,6 @@
 ## Hey there! 👋
 
 I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTech . My journey into the world of technology began with a curiosity for coding, and I've been exploring and creating ever since.
-[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
 
 **Random Dev Joke :**
 
