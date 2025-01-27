@@ -53,9 +53,7 @@ I'm Chandan Thakur, a passionate Computer Science student in my 4th year of BTec
 [![trophy](https://github-trophies.vercel.app/?username=ThatGuyChandan&theme=onedark)](https://github.com/ThatGuyChandan/github-trophies)
 
 ## :fire: My Stats :
-![ThatGuyChandan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThatGuyChandan&theme=vue-dark&hide_border=false)
-
-![ThatGuyChandan's Stats](https://github-readme-stats.vercel.app/api?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThatGuyChandan&theme=tokyonight)](https://git.io/streak-stats)
 
 ![ThatGuyChandan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyChandan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
