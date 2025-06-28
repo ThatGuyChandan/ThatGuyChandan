@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ThatGuyChandan&color=green)
 
 Enthusiastic about turning ideas into code and solving problems through technology. Continuously exploring new tools, frameworks, and best practices to build meaningful digital experiences.
+
 **Random Dev Joke:**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
